@@ -1,1 +1,2 @@
-# layARs
+# layars
+an augmented reality app that allows for 3d-modeled objects to be placed into an environment through the use of one or more layers. this app is on a phone and takes advantage of geolocation and advanced camera algorithms to create an immersive experience on your smartphone. it's more of an evolution of pokemon go's technology, with complete freedom to create and share layers with others, allowing for experiences as varied as scavenger hunts to immersive, educational trips to art and fantasy worlds seen as if in real life.
